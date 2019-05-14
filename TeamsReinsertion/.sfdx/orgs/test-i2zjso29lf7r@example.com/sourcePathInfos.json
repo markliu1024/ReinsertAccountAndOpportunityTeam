@@ -1,0 +1,571 @@
+[
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557844764427,
+            "changeTime": 1557844764427,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557844764427,
+            "changeTime": 1557844764427,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559417,
+            "changeTime": 1557848559417,
+            "contentHash": "ea7a75744939b846f62a3e7687a68069a9045cfd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557844764427,
+            "changeTime": 1557844764427,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557844764428,
+            "changeTime": 1557844764428,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557845172809,
+            "changeTime": 1557845172809,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6390,
+            "modifiedTime": 1557848559343,
+            "changeTime": 1557848559343,
+            "contentHash": "bfb85de0f3c358370715dc8496b6c45acbcf4a59",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings\\Account.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings\\Account.settings-meta.xml",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1557848559347,
+            "changeTime": 1557848559347,
+            "contentHash": "e8043d74c42f54252cc6d65e09eb221a9fb49887",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\Team_Setting__mdt.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\Team_Setting__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1557848559356,
+            "changeTime": 1557848559356,
+            "contentHash": "3fbceaabee128f3e31771380ce4a7a1c976b948c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\fields\\Account_Team_Exclusion__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\fields\\Account_Team_Exclusion__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1557848559360,
+            "changeTime": 1557848559360,
+            "contentHash": "12e73f68ae0b0b13b9f936bcd59cd2b8a6bdc402",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\fields\\Opportunity_Team_Exclusion__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\fields\\Opportunity_Team_Exclusion__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1557848559364,
+            "changeTime": 1557848559364,
+            "contentHash": "a5be9cb0a18fd4f1bf37fc192b8804352fa822df",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\layouts\\Team_Setting__mdt-Team Setting Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\layouts\\Team_Setting__mdt-Team Setting Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2507,
+            "modifiedTime": 1557848559370,
+            "changeTime": 1557848559370,
+            "contentHash": "6d533aa9b9618a9621431d33d3e3874a3a4266bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1557848559373,
+            "changeTime": 1557848559373,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 4204,
+            "modifiedTime": 1557848559376,
+            "changeTime": 1557848559376,
+            "contentHash": "98ea941b856da967973338749eec305ed1629a82",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1557848559379,
+            "changeTime": 1557848559379,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 324,
+            "modifiedTime": 1557850531618,
+            "changeTime": 1557850531618,
+            "contentHash": "51922807b9c1629f603026749c822ce6bc6629a1"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24560,
+            "modifiedTime": 1557850531664,
+            "changeTime": 1557850531664,
+            "contentHash": "3387d58a71065cac6f01504343b03a680cedc004"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\profiles\\Trial Customer Portal User.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\profiles\\Trial Customer Portal User.profile-meta.xml",
+            "isDirectory": false,
+            "size": 7284,
+            "modifiedTime": 1557848559415,
+            "changeTime": 1557848559415,
+            "contentHash": "5587d0e9babe9eb72fdb05d985df9cebb2c59593",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Channel_Manager.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Channel_Manager.md-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1557848559419,
+            "changeTime": 1557848559419,
+            "contentHash": "6902ac8aa6b9b3434d6de4004fc5f598650b7e62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Account_Manager.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Account_Manager.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1557850531673,
+            "changeTime": 1557850531673,
+            "contentHash": "f68b26b26e5c91a2fcc40a20e2462f2ef495a8e3"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Executive_Sponsor.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Executive_Sponsor.md-meta.xml",
+            "isDirectory": false,
+            "size": 551,
+            "modifiedTime": 1557848559424,
+            "changeTime": 1557848559424,
+            "contentHash": "c3b2c17bb1c2fa3f49fa288ca64cee0f55140b7b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Sales_Rep.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Sales_Rep.md-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1557848559426,
+            "changeTime": 1557848559426,
+            "contentHash": "c78b08db960ce9acce0d4735b00ebb8efef6cbcb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Pre_Sales_Consultant.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Pre_Sales_Consultant.md-meta.xml",
+            "isDirectory": false,
+            "size": 554,
+            "modifiedTime": 1557848559428,
+            "changeTime": 1557848559428,
+            "contentHash": "05fb357e5c6e24713a341e5a58185f99fd59f7bf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Lead_Qualifier.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Lead_Qualifier.md-meta.xml",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1557848559432,
+            "changeTime": 1557848559432,
+            "contentHash": "46b2a8a47a78c12877d1d2ddf89491aa3c3a54b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Sales_Manager.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata\\Team_Setting.Sales_Manager.md-meta.xml",
+            "isDirectory": false,
+            "size": 547,
+            "modifiedTime": 1557848559434,
+            "changeTime": 1557848559434,
+            "contentHash": "e00e122aeda5e5de2df9575ad030309d01ad505f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings\\Opportunity.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings\\Opportunity.settings-meta.xml",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1557848559437,
+            "changeTime": 1557848559437,
+            "contentHash": "95c1f39509d1da1d8dd2dc475e76b6613d59977e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559436,
+            "changeTime": 1557848559436,
+            "contentHash": "77c147ea0f59a7f5e646c2ff9aaa5b5e456fd07e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557850531596,
+            "changeTime": 1557850531596,
+            "contentHash": "4df5015ef1a5f93bae49cc91d483c9ddc26c0494"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559352,
+            "changeTime": 1557848559352,
+            "contentHash": "1596b0e1e8cd061b4cc2b30095bd0b9f75f5c514",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\fields",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559361,
+            "changeTime": 1557848559361,
+            "contentHash": "6ec2b9640bc06fd4e408342d995f839bc34def8e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559369,
+            "changeTime": 1557848559369,
+            "contentHash": "0a8ba0dfb8265d0f101d41d14c102b0d613ca0bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557850531612,
+            "changeTime": 1557850531612,
+            "contentHash": "a36bc53d7fd8daaea4cfdc2b7e87526854ba08b6"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557850531622,
+            "changeTime": 1557850531622,
+            "contentHash": "e21e5e8c11d4292a2c57fdc2110f1d1e8ba9535c"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559414,
+            "changeTime": 1557848559414,
+            "contentHash": "6de539e406207a3affb7ad6235c1586239769bb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata",
+        {
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557848559433,
+            "changeTime": 1557848559433,
+            "contentHash": "0d179d7a7c17de093852e9333bf48470e19582d6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\listViews\\Custom.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\listViews\\Custom.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 423,
+            "modifiedTime": 1557850531601,
+            "changeTime": 1557850531601,
+            "contentHash": "5faaff62b371ca16b2f12d894ccfce02195ff0ec"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1557850531605,
+            "changeTime": 1557850531605,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3032,
+            "modifiedTime": 1557850531608,
+            "changeTime": 1557850531608,
+            "contentHash": "c455c56b4e13ce4c18be1cb8997d20731a75e1b7"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\TeamSettings_Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\TeamSettings_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1557850531611,
+            "changeTime": 1557850531611,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\TeamSettings_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\classes\\TeamSettings_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6266,
+            "modifiedTime": 1557850531613,
+            "changeTime": 1557850531613,
+            "contentHash": "9256a17d9b0fe60c62ef25ae904f28b61908e989"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1557850531620,
+            "changeTime": 1557850531620,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 335,
+            "modifiedTime": 1557850531623,
+            "changeTime": 1557850531623,
+            "contentHash": "0aa2edd9d215652c9362669ca2e3d78a135804f7"
+        }
+    ],
+    [
+        "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\liufamily\\Documents\\ReinsertAccountAndOpportunityTeam\\TeamsReinsertion\\force-app\\main\\default\\objects\\Team_Setting__mdt\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557850531598,
+            "changeTime": 1557850531598,
+            "contentHash": "d5af38479da7085565e922e50d46b129743eb059"
+        }
+    ]
+]

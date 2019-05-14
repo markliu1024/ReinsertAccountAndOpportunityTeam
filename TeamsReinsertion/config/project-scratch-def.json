@@ -1,0 +1,10 @@
+{
+  "orgName": "Mark's Demo Company",
+  "edition": "Enterprise",
+  "features": [],
+  "orgPreferences": {
+    "enabled": ["S1DesktopEnabled", "ChatterEnabled", "IsOpportunityTeamEnabled", "IsAccountTeamsEnabled"],
+    "disabled": []
+  }
+  
+}
