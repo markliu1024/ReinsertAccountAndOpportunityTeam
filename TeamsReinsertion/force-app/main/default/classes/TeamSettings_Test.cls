@@ -55,7 +55,25 @@ private class TeamSettings_Test{
             //acc.ShippingCountryCode = 'US';
             //acc.ShippingStateCode = 'NY';
             insert acc;
-            System.debug('account owner Id'+acc.OwnerId);         
+            System.debug('account owner Id'+acc.OwnerId);   
+            
+            //Set up Opportunity
+            Opportunity opp = new Opportunity(
+            	CloseDate = System.Today(),
+                Name = 'test Opp',
+                StageName = 'Prospecting',
+                AccountId = acc.Id
+            );
+            insert opp;
+            
+            OpportunityTeamMember otm = new OpportunityTeamMember(
+                UserId = u1.Id,
+                OpportunityId = opp.Id,
+                OpportunityAccessLevel = 'Edit',
+                TeamMemberRole = 'Account Manager'
+            );
+            insert otm;
+            
             
             /*Agronomist_Mapping__c AM = new Agronomist_Mapping__c();
             AM.Account_Manager__c =u1.id;
@@ -96,6 +114,9 @@ private class TeamSettings_Test{
 
             acc.OwnerId = u2.Id;
             update acc;
+            
+            opp.OwnerId = u2.Id;
+            update opp;
         }
 
     }//End of the method, AgronomistTest1
